@@ -5,7 +5,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, install required dependencies:
 
 ```bash
-npm install
+npm install next react react-dom
+```
+
+If you face any errors:
+
+```bash
+npm audit fix
 ```
 
 Then, run the development server:
